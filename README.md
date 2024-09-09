@@ -5,3 +5,4 @@ and other factors that affect a company's sales figures.
 
 ## Technologies Used:
 - MySQL
+- MySQL Workbench
